@@ -2,6 +2,10 @@
   <a href="#"><img src="https://user-images.githubusercontent.com/78784850/174076428-0b8a8881-9b04-4194-b307-44885ee8c7df.jpg" alt="header" border="0"></a>
 </p>
 
+<a href="https://github.com/topujss" target="_blank">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=topujss&label=Profile%20Views&color=0e75b6&style=flat-square&color=blueviolet" />
+</a> 
+
 [![Visits Badge](https://badges.pufler.dev/visits/topujss/topujss?color=0F182A&style=for-the-badge)](https://github.com/topujss)
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/topujss?color=0F182A&logo=twitter&style=for-the-badge)](https://twitter.com/topujss)
 
@@ -31,6 +35,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=topujss&theme=dark&background=0F182A&ring=0195FF&fire=blue" alt="topu Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topujss&layout=compact&bg_color=0F182A&text_color=fffff0" alt="topu Tech" />
 </p>
+
+<div float="center" align="center">
+
+
+  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=topujss&layout=compact&theme=dark&hide_border=true" />
+  <img height="145" src="https://github-readme-stats.vercel.app/api?username=topujss&show_icons=true&theme=dark&count_private=true&hide=contribs,issue&hide_border=true" />
+</div>
+
+<p align="center"><img align="center" height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=topujss&theme=github_dark" alt="Profile Details" /></p>
+
 
 ## Languages, Frameworks and Tools i use:
 
